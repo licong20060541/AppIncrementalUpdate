@@ -1,5 +1,9 @@
+*/*.iml
+*/.DS_Store
+AppIncrementalUpdate.iml
 .DS_Store
 .gradle/
 .idea/
 build/
 test/
+app/src/main/obj/
